@@ -21,3 +21,4 @@ Me llamo Alejandro Anglada. A día de hoy soy un **estudiante de Ingeniería Inf
 ## En desarrollo
 - Generador de contraseñas seguras pseudo-aleatorias ⚙️
 - Aprendiendo a usar OpenGL en C++ ⚙️
+- Clase parametrizable de lista doblemente enlazada en C++ ⚙️
