@@ -1,6 +1,6 @@
 # ¡Bienvenido a mi perfil de GitHub!
 ## _¿Quién soy?_
-Me llamo Alejandro Anglada. A día de hoy soy un **estudiante de Ingeniería Informática en Granada** de 2º, y he creado este perfil de GitHub para uso personal y poner a disposición mis proyectos ___no relacionados___ con mi vida profesional a todo aquel al que le interesen.
+Me llamo Alejandro Anglada. A día de hoy soy un **estudiante de Ingeniería Informática en Granada** de la especialidad en Tecnologías de Información (TI), y he creado este perfil de GitHub para uso personal y poner a disposición mis proyectos ___no relacionados___ con mi vida profesional a todo aquel al que le interesen.
 
 ## _¿Qué me interesa?_
 ### Lenguajes
@@ -16,7 +16,7 @@ Me llamo Alejandro Anglada. A día de hoy soy un **estudiante de Ingeniería Inf
 - **Videojuegos**
 
 ## _¿A qué me quiero dedicar?_
-¡Pues aún no estoy seguro! Me gustan muchas cosas de lo que estoy estudiando. Creo que me decanto _un poco_ por la ciberseguridad, pero también me gusta mucho toda la parte relacionada con el hardware y los sistemas de bajo nivel.
+¡Pues aún no estoy seguro! Me gustan muchas cosas de lo que estoy estudiando. Creo que me decanto _un poco_ por la ciberseguridad, pero también me gusta mucho toda la parte relacionada con el hardware y los sistemas de bajo nivel. Sin embargo, recientemente diría que lo que más me llama la atención profesionalmente son las redes, bien sea montaje o mantenimiento. :)
 
 ## En desarrollo
 - Generador de contraseñas seguras pseudo-aleatorias ⚙️
