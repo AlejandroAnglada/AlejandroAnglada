@@ -19,6 +19,6 @@ Me llamo Alejandro Anglada. A día de hoy soy un **estudiante de Ingeniería Inf
 ¡Pues aún no estoy seguro! Me gustan muchas cosas de lo que estoy estudiando. Creo que me decanto _un poco_ por la ciberseguridad, pero también me gusta mucho toda la parte relacionada con el hardware y los sistemas de bajo nivel. Sin embargo, recientemente diría que lo que más me llama la atención profesionalmente son las redes, bien sea montaje o mantenimiento. :)
 
 ## En desarrollo
-- Generador de contraseñas seguras pseudo-aleatorias ⚙️
-- Aprendiendo a usar OpenGL en C++ ⚙️
-- Clase parametrizable de lista doblemente enlazada en C++ ⚙️
+- Aprendiendo desarrollo cutrillo de sistemas operativos a bajo nivel ⚙️
+- Clase parametrizable de lista doblemente enlazada ⚙️
+- Generador de contraseñas pseudo-aleatorias ⚙️
