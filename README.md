@@ -18,7 +18,18 @@ Me llamo Alejandro Anglada. A día de hoy soy un **estudiante de Ingeniería Inf
 ## _¿A qué me quiero dedicar?_
 ¡Pues aún no estoy seguro! Me gustan muchas cosas de lo que estoy estudiando. Creo que me decanto _un poco_ por la ciberseguridad, pero también me gusta mucho toda la parte relacionada con el hardware y los sistemas de bajo nivel. Sin embargo, recientemente diría que lo que más me llama la atención profesionalmente son las redes, bien sea montaje o mantenimiento. :)
 
-## En desarrollo
-- Aprendiendo desarrollo cutrillo de sistemas operativos a bajo nivel ⚙️
-- Clase parametrizable de lista doblemente enlazada ⚙️
-- Generador de contraseñas pseudo-aleatorias ⚙️
+## _Mis estadísticas_
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+## _Herramientas y entorno_
+
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="40" alt="vscode"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gcc/gcc-original.svg" height="40" alt="gcc"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/clion/clion-original.svg" height="40" alt="clion"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/netbeans/netbeans-original.svg" height="40" alt="netbeans"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" height="40" alt="docker"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" height="40" alt="bash">
+
+## _Contacto_
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-anglada-alvarez)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ale.anglada.alv@gmail.com)
