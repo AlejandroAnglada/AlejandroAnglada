@@ -19,7 +19,24 @@ Me llamo Alejandro Anglada. A día de hoy soy un **estudiante de Ingeniería Inf
 ¡Pues aún no estoy seguro! Me gustan muchas cosas de lo que estoy estudiando. Creo que me decanto _un poco_ por la ciberseguridad, pero también me gusta mucho toda la parte relacionada con el hardware y los sistemas de bajo nivel. Sin embargo, recientemente diría que lo que más me llama la atención profesionalmente son las redes, bien sea montaje o mantenimiento. :)
 
 ## _Mis estadísticas_
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlejandroAnglada&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=AlejandroAnglada&locale=es&border_radius=8&background=75,000000,1a0b2e&border=4d1177&stroke=2a0f45&ring=9745f5&fire=b66dff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b66dff&sideLabels=a58bc9&dates=6e5a8a" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroAnglada&layout=compact&langs_count=6&locale=es&card_width=495&custom_title=Lenguajes%20m%C3%A1s%20usados&border_radius=8&bg_color=75,000000,1a0b2e&border_color=4d1177&title_color=b66dff&text_color=ffffff" alt="Top Languages" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AlejandroAnglada&label=Visitas&color=9745f5&style=flat" alt="Visitas" />
+
+</div>
 
 ## _Herramientas y entorno_
 
